@@ -8,7 +8,7 @@ I was responsible for the full technical implementation:
 - Optimized partitioning and enabled Z-Ordering  
 - Cataloged processed data in Delta Lake for easy access by data scientists and ML engineers  
 
-As a result, OLAP query speeds improved by **50x–100x**, and data replication lag dropped from hours to under a minute. Business teams were able to access near real-time insights directly through the Databricks platform.
+As a result, OLAP query speeds improved by **50x–100x**, and data replication lag dropped from 24hours to 30 minutes. Business teams were able to access near real-time insights directly through the Databricks platform.
 
 While the codebase remains private due to proprietary constraints, I’d like to share the high-level architecture and the impact this migration delivered.
 
